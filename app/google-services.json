@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "538564326316",
+    "firebase_url": "https://edotxo-92fd7.firebaseio.com",
+    "project_id": "edotxo-92fd7",
+    "storage_bucket": "edotxo-92fd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538564326316:android:c6c905a46acac05d",
+        "android_client_info": {
+          "package_name": "com.douncoding.exo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538564326316-85r4lca0b9faipdrh4ofvkj64oivkafj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.douncoding.exo",
+            "certificate_hash": "E3D7485C701E47B5199284D37B6182BEA7EFECC8"
+          }
+        },
+        {
+          "client_id": "538564326316-strfkidfk80fraa97moi1o1cpdlubmu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhfM15t_6bCk1QOGvZfTwMHQg2SmqClzY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538564326316-strfkidfk80fraa97moi1o1cpdlubmu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
